@@ -22,7 +22,7 @@ int main() {
 	double num3;
 	double num4;
 	double num5;
-	double averageValue;
+	double average;
 
 	//Intro
 	std::cout << "=============================================================\n";
@@ -50,10 +50,10 @@ int main() {
 	std::cin >> num5;
 
 	//Calculations
-	averageValue = (num1, num2, num3, num4, num5) / 5;
+	average = (num1 + num2 + num3 + num4 + num5) / 5;
 
 	//Final Output
-	std::cout << "\n" << averageValue << " is your average value." << std::endl;
+	std::cout << "\n" << average << " is your average value." << std::endl;
 	std::cout << "=======================================";
 
 
