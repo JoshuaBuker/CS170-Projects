@@ -1,1 +1,2 @@
 C:\Users\josh\Documents\GitHub\CS170-Projects\AverageValueProgram\Debug\AverageValueProgram.exe
+C:\Users\Joshua\Documents\GitHub\CS170-Projects\AverageValueProgram\Debug\AverageValueProgram.exe

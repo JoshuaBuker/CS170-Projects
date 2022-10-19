@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\AverageValueProgram",
-    "\\Test Application"
+    "\\IntegerSum"
   ],
-  "SelectedNode": "\\AverageValueProgram\\AverageValueProgram.cpp",
+  "SelectedNode": "\\IntegerSum\\IntegerSum.cpp",
   "PreviewInSolutionExplorer": false
 }
