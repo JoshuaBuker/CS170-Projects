@@ -1,0 +1,11 @@
+﻿  RandomNumberGenerator.cpp
+C:\Users\Joshua\Documents\GitHub\CS170-Projects\RandomNumberGenerator\RandomNumberGenerator.cpp(40,37): error C2601: 'sum': local function definitions are illegal
+C:\Users\Joshua\Documents\GitHub\CS170-Projects\RandomNumberGenerator\RandomNumberGenerator.cpp(32): message : this line contains a '{' which has not yet been matched
+C:\Users\Joshua\Documents\GitHub\CS170-Projects\RandomNumberGenerator\RandomNumberGenerator.cpp(41,44): error C2065: 'ARRAY_SIZE': undeclared identifier
+C:\Users\Joshua\Documents\GitHub\CS170-Projects\RandomNumberGenerator\RandomNumberGenerator.cpp(41,1): error C2672: 'std::accumulate': no matching overloaded function found
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\numeric(41,29): message : could be '_Ty std::accumulate(const _InIt,const _InIt,_Ty)'
+C:\Users\Joshua\Documents\GitHub\CS170-Projects\RandomNumberGenerator\RandomNumberGenerator.cpp(41,24): message : '_Ty std::accumulate(const _InIt,const _InIt,_Ty)': expects 3 arguments - 2 provided
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\numeric(41): message : see declaration of 'std::accumulate'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\numeric(25,29): message : or       '_Ty std::accumulate(const _InIt,const _InIt,_Ty,_Fn)'
+C:\Users\Joshua\Documents\GitHub\CS170-Projects\RandomNumberGenerator\RandomNumberGenerator.cpp(41,24): message : '_Ty std::accumulate(const _InIt,const _InIt,_Ty,_Fn)': expects 4 arguments - 2 provided
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\numeric(25): message : see declaration of 'std::accumulate'

@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\IntegerSum"
+    "\\minMidMaxProgram",
+    "\\RandomNumberGenerator"
   ],
-  "SelectedNode": "\\IntegerSum\\IntegerSum.cpp",
+  "SelectedNode": "\\RandomNumberGenerator\\RandomNumberGenerator.cpp",
   "PreviewInSolutionExplorer": false
 }
